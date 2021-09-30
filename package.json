@@ -1,0 +1,24 @@
+{
+  "name": "apitight",
+  "version": "1.0.0",
+  "description": "Api tightening small util to send payloads to url , see results  similar to mocha ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khurramijazm/apitight.git"
+  },
+  "keywords": [
+    "api",
+    "testing",
+    "util"
+  ],
+  "author": "khurram ijaz <khurram.i@ovada.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/khurramijazm/apitight/issues"
+  },
+  "homepage": "https://github.com/khurramijazm/apitight#readme"
+}
